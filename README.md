@@ -1,13 +1,32 @@
-# taskonomy-sample-model-1
-Model, selected at random, from the training set of the paper "Taskonomy: Disentangling Task Transfer Learning"
+
+
+# TASKONOMY Dataset 
+
+This repository shares a multi-annotated dataset from Taskonomy paper, including ~4 million images from ~600 buildings. Each image has annotations for every one of the 2D, 3D, and semantic tasks in Taskonomy's dictionary (see below). For more details, please see the [CVPR 2018 paper](http://taskonomy.vision/#paper).
+
+Currently we are sharing a small fraction of the dataset as a sample. The full dataset will be released in May 2018. Please contact us if you'd like earlier access.
+
+### See sample results of the TASK BANK trained on the taskonomy here: https://taskonomy.vision/#models
+### Try the live demo here: https://taskonomy.vision/tasks
+#### Reference Paper: "Taskonomy: Disentangling Task Transfer Learning", CVPR 2018.
+Amir R. Zamir, Alexander Sax*, William B. Shen*, Leonidas Guibas, Jitendra Malik, Silvio Savarese. 
+
+http://taskonomy.vision/ 
+
+<div align="center">
+  <img src="assets/web_assets/task_dict_v.jpg" />
+</div>
+
+div align="center">
+  <img src="http://taskonomy.vision/static/images/dataset_thumbnail.png"  width="900px" />
+</div>
 
 
 
+# sample-model-1
+A model, selected at random, from the training set of the paper is shared in the repository. The folder structure is described below:
 
-## File structure
-
-Then information for the model (building) is organized as follows:
-
+  
 ```
 curvature/
     Curvature images. 
