@@ -13,11 +13,9 @@ Amir R. Zamir, Alexander Sax*, William B. Shen*, Leonidas Guibas, Jitendra Malik
 
 http://taskonomy.vision/ 
 
+ 
+The annotations of a sample image for a subset of 15 tasks:
 <div align="center">
-  <img src="assets/web_assets/task_dict_v.jpg" />
-</div>
-
-div align="center">
   <img src="http://taskonomy.vision/static/images/dataset_thumbnail.png"  width="900px" />
 </div>
 
