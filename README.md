@@ -20,7 +20,6 @@ The annotations of a sample image for a subset of 15 tasks:
 </div>
 
 
-
 # sample-model-1
 A model, selected at random, from the training set of the paper is shared in the repository. The folder structure is described below:
 
